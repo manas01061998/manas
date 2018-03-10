@@ -4,7 +4,7 @@
   flex-direction:row;
 }
 .profile{
-  background-color: #ddd;
+  background-color: blue;
   font-size: 30px;
   padding: 2%;
   width::30%;
@@ -12,7 +12,7 @@
   text-align: center;
 }
 .content{
-  background-color:#ddd ;
+  background-color:blue ;
   padding: 1%;
   width: 70%;
   margin:1%;
@@ -71,7 +71,7 @@
 @media screen and (max-width:1024px){
 .main{
   flex-direction: column;
-  background-color: #ddd;
+  background-color: blue;
   display: flex;
   flex-wrap: wrap;
 
