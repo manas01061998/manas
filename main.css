@@ -64,6 +64,7 @@
   border:1%solid red;
   box-shadow:5px 5px 3px #ddd;
 }
+ 
 }
 
 
@@ -85,7 +86,7 @@
   text-align: center;
 }
 .content{
-  background-color:;
+  background-color:red;
   padding: 1%;
   width: 100px;
   margin:1%;
