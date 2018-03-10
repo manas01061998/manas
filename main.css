@@ -4,7 +4,7 @@
   flex-direction:row;
 }
 .profile{
-  background-color: blue;
+  background-color: pink;
   font-size: 30px;
   padding: 2%;
   width::30%;
@@ -12,7 +12,7 @@
   text-align: center;
 }
 .content{
-  background-color:blue ;
+  background-color:pink ;
   padding: 1%;
   width: 70%;
   margin:1%;
@@ -39,7 +39,7 @@
 
 }
 .profile{
-  background-color:blue ;
+  background-color:pink ;
   font-size: 30px;
   padding: 2%;
   width::50px;
@@ -47,7 +47,7 @@
   text-align: center;
 }
 .content{
-  background-color:blue;
+  background-color:pink;
   padding: 1%;
   width: 100px;
   margin:1%;
@@ -72,13 +72,13 @@
 @media screen and (max-width:1024px){
 .main{
   flex-direction: column;
-  background-color: blue;
+  background-color: pink;
   display: flex;
   flex-wrap: wrap;
 
 }
 .profile{
-  background-color:blue;
+  background-color:pink;
   font-size: 30px;
   padding: 2%;
   width::50px;
