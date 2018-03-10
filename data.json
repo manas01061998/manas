@@ -2,9 +2,9 @@
   "basics":{
     "photo":"desert.jpg",
     "name":"Manaskanth",
-    "phone":"3322114455",
+    "phone":"8500354612",
     "email":"manaskanthkalagara@gmail.com",
-    "Address":"eluru"
+    "Address":"eluru,west godavari,a.p"
 
 
 },
@@ -16,12 +16,12 @@
   {
     "course":"Inter(MPC)",
     "institute":"Sri Chaitanya college",
-    "data":["2013-2015","94%"]
+    "data":["2013-2015","96%"]
   },
   {
     "course":"SSC",
-    "institute":"Siddhartha Vidhyalaya",
-    "data":["2012-2013","88%"]
+    "institute":"kendriya  Vidhyalaya",
+    "data":["2012-2013","96%"]
   }
 ],
      "skills":[
